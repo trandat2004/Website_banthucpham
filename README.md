@@ -1,6 +1,4 @@
-# 🥬 Nghĩa Thành Food
-
-## 🌱 Website bán thực phẩm trực tuyến
+# 🌱 Website bán thực phẩm trực tuyến
 
 **Nghĩa Thành Food** là website bán thực phẩm trực tuyến được xây dựng cho **Công ty TNHH Chế biến thực phẩm xuất khẩu Nghĩa Thành**.
 
