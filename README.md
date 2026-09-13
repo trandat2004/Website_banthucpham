@@ -235,18 +235,11 @@ Website_banthucpham/
 ├── database/
 │   └── database.db
 │
-├── img/
-│   ├── Trang_chu.png
-│   ├── Dang_ky.png
-│   ├── Dang_nhap.png
-│   ├── San_pham.png
-│   └── ...
-│
 ├── vendor/
 │
 ├── composer.json
 ├── composer.lock
-└── README.md
+└── index.php
 ```
 
 ---
