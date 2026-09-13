@@ -398,7 +398,6 @@ Trong tương lai có thể mở rộng:
 
 **Tên dự án:** Nghĩa Thành Food  
 **Đề tài:** Thiết kế website bán thực phẩm cho công ty bằng ngôn ngữ PHP, HTML  
-**Đơn vị:** Công ty TNHH Chế biến thực phẩm xuất khẩu Nghĩa Thành  
 **Người thực hiện:** Trần Văn Đạt  
 **Ngôn ngữ chính:** PHP  
 **Cơ sở dữ liệu:** SQLite  
