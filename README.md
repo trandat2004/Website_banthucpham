@@ -336,14 +336,6 @@ Theo dõi đơn hàng
 
 ---
 
-## 🚚 Chính sách phí giao hàng
-
-- Đơn hàng có giá trị dưới **200.000 VNĐ**: phí giao hàng **25.000 VNĐ**.
-- Đơn hàng từ **200.000 VNĐ trở lên**: miễn phí giao hàng.
-- Các chương trình khuyến mãi miễn phí giao hàng có thể áp dụng theo từng chương trình.
-
----
-
 ## 👥 Phân quyền hệ thống
 
 | Vai trò | Quyền hạn |
